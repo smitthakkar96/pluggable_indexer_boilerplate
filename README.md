@@ -1,4 +1,4 @@
-# Boilerplate for creating a custom indexer for ascii_binder_search_plugin
+### Boilerplate for creating a custom indexer for ascii_binder_search_plugin
 
 - Add appriporate information in setup.py and get started
 - Rename indexer_name.py to appriporate name for indexer and make sure it is consistent accross the place.
